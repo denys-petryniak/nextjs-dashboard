@@ -6,6 +6,6 @@
 
 ### Try it out
 
-Email: *user@nextmail.com*
-</br>
-Password: *123456*
+You should be able to log in and out of application using the following credentials:
+ - Email: *user@nextmail.com*
+ - Password: *123456*
